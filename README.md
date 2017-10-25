@@ -8,4 +8,4 @@ I will hold informal "breakout" lectures on a few topics people have asked for m
 
 10 am: Sinatra Routes
 
-3 pm: jQuery/AJAX calls
+2 pm: jQuery/AJAX calls
